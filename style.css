@@ -1,0 +1,107 @@
+.main{
+    background-image: linear-gradient(to right,#ed7b55,#f4a688, #f9ccac,#fbefcc);
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:150px;
+    
+}
+.img1{
+    height:650px;
+    position: relative;
+    top:50px;
+}
+.h{
+   color: black;
+   font-weight:700;
+   font-size: 70px;
+   font-family: "Protest Riot", sans-serif;
+   font-weight: 400;
+   
+}
+.front{
+    position: relative;
+    top: 250px;
+}
+.svg{
+    background-color:#f9ccac7d;
+    border-radius:10px;
+}
+.container-2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+    margin-top:80px;
+   
+}
+.button-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.grey{
+    position: relative;
+    top: 50px;
+    height: 500px;
+    background-color:#ed7c5649;
+    
+}
+.new{
+    position: relative;
+    top: 50px;
+    text-align: center;
+    font-family: "Alegreya Sans", sans-serif;
+    font-size:40px;
+}
+.dog{
+    height:150px;
+    border-radius:100%;
+}
+.timepass{
+ position: relative;
+ left:700px;
+ top: 100px;
+}
+.ad{
+    display: flex;
+    gap: 100px;
+    position: relative;
+    top: 100px;
+    align-items: center;
+    justify-content: center;
+}
+.p-3{
+    position: relative;
+    top:40px;
+}
+.card1{
+    position: relative;
+    top: 50px;
+}
+.foot{
+    height:400px;
+    background-image: linear-gradient(to right,#ed7b55,#f4a688, #f9ccac,#fbefcc);
+    display: flex;
+    flex-wrap: wrap;
+    gap:120px;
+    justify-content:center;
+    align-items: center;
+}
+.para{
+position: relative;
+right:300px;
+bottom: 100px;
+}
+h2{
+    font-family: "Cinzel", serif;
+    font-weight:700;
+}
+.plan{
+    font-family: "Cinzel", serif;
+    
+}
+.atrangi{
+    background-color: #ed7b554b;
+}
